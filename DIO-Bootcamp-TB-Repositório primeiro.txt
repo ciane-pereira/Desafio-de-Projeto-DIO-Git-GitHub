@@ -1,0 +1,15 @@
+Meu 1º Bootcamp DIO-Take Blip Web Developer: encerra 20/03/22
+Cronograma de estudo: entre 4h-6h/diárias Início 21/02/22
+
+Lives
+- Boas-vindas ao Bootcamp Take Blip Web Developer
+- Memtoria 1- aula inaugural
+ 
+Aulas assistidas 
+1- lógica de programação essencial
+2- primeiros passsos para começar a programar
+3- aprenda o que são estrutura de dados e algortimos
+4- introdução ao Git e ao GitHub
+5- criando seu primeiro repositório no GitHub para compartilhar seu progresso 
+
+
